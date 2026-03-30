@@ -28,7 +28,7 @@ Lab Reports
 Final Project
 | ชื่อ | ไฟล์ / ลิงก์ |
 |------|--------------|
-| Final Project Artifacts | [View]((https://github.com/pawarisa-13/Magnetic-Resonance-Network-MRN-)) |
+| Final Project Artifacts | [View](https://github.com/pawarisa-13/Magnetic-Resonance-Network-MRN-) |
 
 ---
 
