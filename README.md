@@ -4,7 +4,7 @@ Personal Portfolio — Network & Systems 2025–2026
 Assignments
 | # | ชื่องาน| ไฟล์ / ลิงก์ |
 |---|---------|--------------|
-| 01 | Essay Link | [View](./assignments/Assignment1.pdf) |
+| 01 | Essay Link | [View](./Assignments/Assignment1.pdf) |
 | 02 | Topology | [View](./assignments/Assignment2.pdf) |
 | 03 | Not_Simple | [View](./assignments/Assignment3.pdf) |
 | 04 | TCP-UDP | [View](./assignments/Assignment4.pdf) |
