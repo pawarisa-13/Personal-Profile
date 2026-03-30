@@ -19,9 +19,9 @@ Lab Reports
 | LAB 2 | Lab Report 2 | [View](./Labs/Lab_2.pdf) |
 | LAB 3 | Lab Report 3 | [View](./Labs/Lab_3.pdf) |
 | LAB 4 | Lab Report 4 | [View](./Labs/LAB_4.pdf) |
-| LAB 5 | Lab Report 5 | [View](./Labs/Lab_5.pdf) |
-| LAB 6 | Lab Report 6 | [View](./Labs/Lab_6.pdf) |
-| LAB 7 | Lab Report 7 | [View](./Labs/Lab_7.pdf) |
+| LAB 5 | Lab Report 5 | [View](./Labs/LAB_5.pdf) |
+| LAB 6 | Lab Report 6 | [View](./Labs/LAB_6.pdf) |
+| LAB 7 | Lab Report 7 | [View](./Labs/LAB_7.pdf) |
 
 ---
 
